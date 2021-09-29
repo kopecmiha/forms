@@ -1,0 +1,11 @@
+D:\шарп\Lab1Koptsev\Lab1Koptsev\bin\Debug\Lab1Koptsev.exe.config
+D:\шарп\Lab1Koptsev\Lab1Koptsev\bin\Debug\Lab1Koptsev.exe
+D:\шарп\Lab1Koptsev\Lab1Koptsev\bin\Debug\Lab1Koptsev.pdb
+D:\шарп\Lab1Koptsev\Lab1Koptsev\obj\Debug\Lab1Koptsev.csproj.AssemblyReference.cache
+D:\шарп\Lab1Koptsev\Lab1Koptsev\obj\Debug\Lab1Koptsev.Form1.resources
+D:\шарп\Lab1Koptsev\Lab1Koptsev\obj\Debug\Lab1Koptsev.Properties.Resources.resources
+D:\шарп\Lab1Koptsev\Lab1Koptsev\obj\Debug\Lab1Koptsev.csproj.GenerateResource.cache
+D:\шарп\Lab1Koptsev\Lab1Koptsev\obj\Debug\Lab1Koptsev.csproj.CoreCompileInputs.cache
+D:\шарп\Lab1Koptsev\Lab1Koptsev\obj\Debug\Lab1Koptsev.exe
+D:\шарп\Lab1Koptsev\Lab1Koptsev\obj\Debug\Lab1Koptsev.pdb
+D:\шарп\Lab1Koptsev\Lab1Koptsev\obj\Debug\Lab1Koptsev.Form2.resources
